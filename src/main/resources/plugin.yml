@@ -1,0 +1,7 @@
+name: DailyShopPlugin
+version: '1.0-SNAPSHOT'
+main: com.popogonry.dailyShopPlugin.DailyShopPlugin
+api-version: '1.21'
+softdepend: [Vault]
+commands:
+  일일상점:
